@@ -9,8 +9,11 @@ A decision-making tool that evaluates whether a trader is financially and psycho
 
 #### Features:
 **Balance Validation:** - Validates account balance against minimum requirements.
+
 **Input Cleaning:** - Uses string methods, .lower() to handle varied user input for discipline checks.
+
 **Risk Calculation:** - Calculates total risk amount using a fixed risk percentage (1%).
+
 **Clean Reporting:** - Provides formatted output using f-strings for clear reporting.
 
 ## Roadmap
